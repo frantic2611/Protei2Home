@@ -1,0 +1,16 @@
+﻿  FileHandlerIO.cpp
+D:\Новая папка (2)\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  ConsoleApplication2.cpp
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\FileHandlerIO.cpp(89,5): error C2653: filesystem: не является именем класса или пространства имен
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\FileHandlerIO.cpp(89,22): error C3646: filePath: неизвестный спецификатор переопределения
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\FileHandlerIO.cpp(89,17): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\FileHandlerIO.cpp(12,9): error C2065: filePath: необъявленный идентификатор
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\FileHandlerIO.cpp(12,20): error C2653: filesystem: не является именем класса или пространства имен
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\FileHandlerIO.cpp(12,32): error C2064: результатом вычисления фрагмента не является функция, принимающая 1 аргументов
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\FileHandlerIO.cpp(31,31): error C2065: filePath: необъявленный идентификатор
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\FileHandlerIO.cpp(49,31): error C2065: filePath: необъявленный идентификатор
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\FileHandlerIO.cpp(66,31): error C2065: filePath: необъявленный идентификатор
+C:\Users\User\source\repos\ConsoleApplication1\ConsoleApplication1\FileHandlerIO.cpp(80,31): error C2065: filePath: необъявленный идентификатор
+D:\Новая папка (2)\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\User\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6,10): error C1083: Не удается открыть файл включение: FileHandlerIO.cpp: No such file or directory,
+  Создание кода...
